@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CyberSecurityTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CyberSecurityTest_jar</output-path>
+    <root id="archive" name="CyberSecurityTest.jar">
+      <element id="module-output" name="CyberSecurityTest" />
+    </root>
+  </artifact>
+</component>
